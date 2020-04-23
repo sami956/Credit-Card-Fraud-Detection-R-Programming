@@ -1,5 +1,5 @@
 #Importing the dataset from the respective folder
-credit_card <- read.csv('C:\\Users\\Intellipaat-Team\\Desktop\\DESKTOP\\Fraud_Detection\\Dataset\\creditcard.csv')
+credit_card <- read.csv('creditcard.csv')
 
 # Glance at the structure of the dataset
 str(credit_card)
